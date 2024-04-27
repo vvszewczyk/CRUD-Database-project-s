@@ -1,0 +1,2 @@
+<h2>Library Management System</h2>
+The project is a simple library management application built in Python. It utilizes the CRUD approach for data manipulation, allowing users to list, add, update, and delete books in the library. Additionally, it facilitates managing borrowings, including borrowing and returning books, and provides features to display lists of all borrowings, active borrowings, and books along with their borrowings.
